@@ -1,0 +1,70 @@
+.mainImage {
+    width: 1200px;
+}
+
+.AboutText h2 {
+    font-size: 7rem;
+    color: #f0cda8;
+    margin-left: 100px;
+    margin-top: 100px;
+    text-transform: uppercase;
+}
+
+.textArea {
+    text-align: center;
+    width: 700px;
+    margin-left: 300px;
+    margin-top: 80px;
+    font-size: 18px;
+}
+
+.colorBox {
+    width: 1000px;
+    height: 130px;
+    background-color: #363636;
+    position: relative;
+    z-index: -1;
+    top: 100px;
+    left: 200px;
+}
+
+.imageBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 26px;
+    margin-left: 50px;
+}
+
+.imagePromo {
+    width: 260px;
+}
+
+.Cabilitytext h2 {
+    font-size: 7rem;
+    color: #f0cda8;
+    margin-left: 650px;
+    margin-top: 100px;
+    text-transform: uppercase;
+}
+
+.picsArea {
+    margin-left: 300px;
+    margin-top: 70px;
+}
+
+.imageBox2 {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.imageBox3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.imgSame {
+    width: 300px;
+    margin-right: 10px;
+}

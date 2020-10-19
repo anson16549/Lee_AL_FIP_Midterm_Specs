@@ -1,0 +1,99 @@
+    .mainImage {
+        width: 1200px;
+    }
+    
+    .skillText h2 {
+        font-size: 10rem;
+        color: #f0cda8;
+        margin-top: 100px;
+        margin-left: 760px;
+    }
+    
+    .textArea {
+        text-align: center;
+        width: 700px;
+        margin-top: 50px;
+        font-size: 18px;
+        margin-left: 270px;
+    }
+    
+    .IconBox {
+        margin-top: 60px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    
+    .IconImage {
+        margin-left: 80px;
+        width: 80px;
+    }
+    
+    #contactForm h4 {
+        color: #d3b99d;
+        margin-left: 70px;
+        padding-top: 70px;
+        font-size: 28px;
+        font-weight: bold;
+        margin-bottom: 70px;
+    }
+    
+    .contact-form {
+        background-color: #ebded0;
+        height: 580px;
+        margin-top: 100px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .contact-form label {
+        font: Arial;
+        font-weight: bold;
+        color: #d3b99d;
+        font-size: 20px;
+        margin-left: 75px;
+        margin-top: 25px;
+    }
+    
+    .spBox {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .spBox label {
+        position: relative;
+    }
+    
+    .spBox input {
+        border: none;
+        background-color: #ebded0;
+        border-bottom: 2px solid black;
+        width: 400px;
+        margin-top: 30px;
+    }
+    
+    #gmail {
+        border: none;
+        background-color: #ebded0;
+        border-bottom: 2px solid black;
+        width: 1050px;
+        margin-left: 80px;
+    }
+    
+    .submitBut {
+        font: Arial;
+        font-weight: bold;
+        color: #cf9068;
+        cursor: pointer;
+        font-size: 20px;
+        width: 100px;
+        border: 1px solid black;
+        padding: 10px;
+        margin-left: 550px;
+        background-color: #ebded0;
+        margin-top: 100px;
+    }
+    
+    .submitBut:hover {
+        background-color: white;
+    }

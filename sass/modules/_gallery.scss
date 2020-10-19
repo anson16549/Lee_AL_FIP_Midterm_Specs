@@ -1,0 +1,56 @@
+    .textArea {
+        margin-top: 80px;
+        h1 {
+            color: #ffffff;
+            font-size: 3rem;
+            cursor: context-menu;
+            margin-top: 50px;
+        }
+        span {
+            display: inline-block;
+            font-size: 25px;
+            margin-top: 40px;
+        }
+        p {
+            letter-spacing: 3px;
+            word-spacing: 10px;
+            font-size: .8rem;
+            margin-top: 10px;
+            color: $primary-color;
+            margin-top: 50px;
+        }
+        a {
+            padding: 12px 25px;
+            background-color: none;
+            border: 2px solid $primary-color;
+            color: $primary-color;
+            font-size: .8rem;
+            letter-spacing: 2px;
+            position: relative;
+            top: 80px;
+            overflow: hidden;
+            transition: .5s;
+            display: inline-block;
+            &:hover {
+                color: #fff;
+            }
+        }
+    }
+    
+    .work {
+        a {
+            justify-content: center;
+            position: relative;
+            display: inline-block;
+            img {
+                width: 350px;
+                justify-self: center;
+            }
+        }
+        h2 {
+            font-size: 8rem;
+            color: $primary-color2;
+            margin-top: 100px;
+            margin-left: 590px;
+        }
+    }
