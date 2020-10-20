@@ -20,7 +20,7 @@
             margin-right: 100px;
         }
         a {
-            color: #cf9068;
+            color: $primary-color;
             font-size: 21px;
             text-decoration: none;
         }
@@ -38,14 +38,14 @@
     a {
         border: 0;
         background: white;
-        color: #cf9068;
+        color: $primary-color;
         cursor: pointer;
         transition: 0.5s;
         border: 3px solid #d4933f;
         padding: 12px;
     }
     &:hover {
-        background: #cf9068;
+        background: #d3b99d;
         color: white;
     }
 }

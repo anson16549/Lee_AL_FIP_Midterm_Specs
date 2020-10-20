@@ -1,18 +1,1 @@
-/* Error: Undefined variable.
- *   ,
- * 4 |         color: $primary-color2;
- *   |                ^^^^^^^^^^^^^^^
- *   '
- *   sass\modules\_contact.scss 4:16  @import
- *   sass\master.scss 1:9             root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: "Error: Undefined variable.\a   \2577 \a 4 \2502          color: $primary-color2;\d\a   \2502                 ^^^^^^^^^^^^^^^\a   \2575 \a   sass\\modules\\_contact.scss 4:16  @import\a   sass\\master.scss 1:9             root stylesheet";
-}
+.skillText h2{font-size:10rem;margin-top:100px;margin-left:760px;color:#f0cda8}#contactForm h4{color:#d3b99d;margin-left:70px;padding-top:70px;font-size:28px;font-weight:bold;margin-bottom:70px}.contact-form{background-color:#ebded0;height:580px;margin-top:100px;display:flex;flex-direction:column}.contact-form label{font:Arial;font-weight:bold;color:#d3b99d;font-size:20px;margin-left:75px;margin-top:25px}.spBox{display:flex;flex-direction:row}.spBox label{position:relative}.spBox input{border:none;background-color:#ebded0;border-bottom:2px solid #000;width:400px;margin-top:30px}.submitBut{font:Arial;font-weight:bold;color:#cf9068;cursor:pointer;font-size:20px;width:100px;border:1px solid #000;padding:10px;margin-left:550px;background-color:#ebded0;margin-top:100px}.submitBut:hover{background-color:#fff}.textArea{margin-top:80px}.textArea h1{color:#fff;font-size:3rem;cursor:context-menu;margin-top:50px}.textArea span{display:inline-block;font-size:25px;margin-top:40px}.textArea p{letter-spacing:3px;word-spacing:10px;font-size:.8rem;margin-top:10px;color:#cf9068;margin-top:50px}.textArea a{padding:12px 25px;background-color:none;border:2px solid #cf9068;color:#cf9068;font-size:.8rem;letter-spacing:2px;position:relative;top:80px;overflow:hidden;transition:.5s;display:inline-block}.textArea a:hover{color:#fff}.work a{justify-content:center;position:relative;display:inline-block}.work a img{width:350px;justify-self:center}.work h2{font-size:8rem;color:#f0cda8;margin-top:100px;margin-left:590px}#logo img{width:100px;margin-left:40px;margin-top:16px}#mainNav{text-transform:uppercase;margin-left:auto;margin-top:66px}#mainNav ul{list-style-type:none;margin:0;padding:0}#mainNav ul li{display:inline;cursor:pointer;margin-right:100px}#mainNav ul a{color:#cf9068;font-size:21px;text-decoration:none}#mainNav ul:hover{color:#d6c19c}.Button{margin-top:70px;display:flex;flex-direction:row;justify-content:space-evenly}.Button a{border:0;background:#fff;color:#cf9068;cursor:pointer;transition:.5s;border:3px solid #d4933f;padding:12px}.Button:hover{background:#d3b99d;color:#fff}.AboutText h2{font-size:7rem;color:#f0cda8;margin-left:100px;margin-top:100px;text-transform:uppercase}.Cabilitytext h2{font-size:7rem;color:#f0cda8;margin-left:650px;margin-top:100px;text-transform:uppercase}/*# sourceMappingURL=master.css.map */
